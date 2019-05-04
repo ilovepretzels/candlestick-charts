@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/candlestick-charts/static/css/main.795991f2.chunk.css",
+    "main.js": "/candlestick-charts/static/js/main.a6328dbf.chunk.js",
+    "main.js.map": "/candlestick-charts/static/js/main.a6328dbf.chunk.js.map",
+    "runtime~main.js": "/candlestick-charts/static/js/runtime~main.63581e7b.js",
+    "runtime~main.js.map": "/candlestick-charts/static/js/runtime~main.63581e7b.js.map",
+    "static/css/2.5c17b9f1.chunk.css": "/candlestick-charts/static/css/2.5c17b9f1.chunk.css",
+    "static/js/2.5f75e29b.chunk.js": "/candlestick-charts/static/js/2.5f75e29b.chunk.js",
+    "static/js/2.5f75e29b.chunk.js.map": "/candlestick-charts/static/js/2.5f75e29b.chunk.js.map",
+    "index.html": "/candlestick-charts/index.html",
+    "precache-manifest.a6fd30e7c1fa9b197899331a25ef7139.js": "/candlestick-charts/precache-manifest.a6fd30e7c1fa9b197899331a25ef7139.js",
+    "service-worker.js": "/candlestick-charts/service-worker.js",
+    "static/css/2.5c17b9f1.chunk.css.map": "/candlestick-charts/static/css/2.5c17b9f1.chunk.css.map",
+    "static/css/main.795991f2.chunk.css.map": "/candlestick-charts/static/css/main.795991f2.chunk.css.map"
+  }
+}
